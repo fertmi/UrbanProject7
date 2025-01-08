@@ -1,8 +1,3 @@
-import re
-from operator import index
-from re import search
-
-
 class WordsFinder:
     def __init__(self, *file_name):
         self.file_name = []
